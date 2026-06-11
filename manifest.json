@@ -1,0 +1,16 @@
+{
+  "name": "Height Meter Pro",
+  "short_name": "HeightMeter",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4ade80",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
