@@ -1,4 +1,4 @@
-const CACHE_NAME = 'height-meter-v2';
+const CACHE_NAME = 'gst-tracker-v6';
 const urlsToCache = [
   './index.html',
   './manifest.json'
